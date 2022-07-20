@@ -1,6 +1,6 @@
 {
-  "name": "browser-image-compression",
-  "version": "2.0.0",
+  "name": "@dave136/browser-image-compression",
+  "version": "2.0.1",
   "description": "Compress images in the browser",
   "main": "dist/browser-image-compression.js",
   "module": "dist/browser-image-compression.mjs",
@@ -18,13 +18,13 @@
     "coverage-badges": "make-coverage-badge",
     "commit": "cz"
   },
-  "homepage": "https://github.com/Donaldcwl/browser-image-compression#readme",
+  "homepage": "https://github.com/Dave136/browser-image-compression#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Donaldcwl/browser-image-compression"
+    "url": "https://github.com/Dave136/browser-image-compression"
   },
   "bugs": {
-    "url": "https://github.com/Donaldcwl/browser-image-compression/issues"
+    "url": "https://github.com/Dave136/browser-image-compression/issues"
   },
   "keywords": [
     "image compression",
